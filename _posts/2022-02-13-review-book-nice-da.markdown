@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "[리뷰] 나이스한 데이터 분석"  
+title: "[리뷰] 나이스한 데이터 분석 변경테스트"  
 subtitle: "데이터가 말하는 트렌드"  
 categories: review  
 tags: review book 데이터 분석 과학 트렌드 음식 상권 주류 자동차 학군 실전 운영 인사이트 POS 매출 카드   
